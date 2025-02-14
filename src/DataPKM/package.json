@@ -4,7 +4,7 @@
   "description": "permet de récupérer toutes les données des PKMs et les mettre dans un système de sauvegarde de données",
   "main": "app.js",
   "scripts": {
-    "dev": "clear && nodemon index.js",
+    "dev": "clear && nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
